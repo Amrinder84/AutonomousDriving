@@ -1,5 +1,5 @@
 # http://ramok.tech/machine-learning/
-Java Real Time Video Object Detection for autonomous driving
+Java Real Time Video Object Detection is Amazing for autonomous driving
 We are using pretrained TinyYOLO with PASCAL VOC dataset and deeplearning4j
 
 For more please visit below post:
